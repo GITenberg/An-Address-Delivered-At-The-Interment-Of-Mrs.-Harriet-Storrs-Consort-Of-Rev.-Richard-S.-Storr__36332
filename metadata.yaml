@@ -1,0 +1,31 @@
+_repo: An-Address-Delivered-At-The-Interment-Of-Mrs.-Harriet-Storrs-Consort-Of-Rev.-Richard-S.-Storr__36332
+_version: 0.1.0
+alternative_title: An Address Delivered at the Interment of Mrs. Harriet Storrs, Consort
+  of Reverend Richard S. Storrs, Braintree, Massachusetts, July 11, 1834.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Codman, John
+    birthdate: 1782
+    deathdate: 1847
+    gutenberg_agent_id: '36090'
+    url: http://www.gutenberg.org/2009/agents/36090
+description: ''
+gutenberg_issued: '2011-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Funeral sermons'
+- !lcsh 'Sermons, American'
+- !lcsh 'Storrs, Harriet, 1786-1834 -- Death and burial -- Sermons'
+title: An Address Delivered at the Interment of Mrs. Harriet Storrs, Consort of Rev.
+  Richard S. Storrs, Braintree, Mass., July 11, 1834.
+url: http://www.gutenberg.org/ebooks/36332
