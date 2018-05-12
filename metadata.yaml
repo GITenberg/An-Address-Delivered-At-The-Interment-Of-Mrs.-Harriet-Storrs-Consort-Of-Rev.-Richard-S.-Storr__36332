@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '36090'
     url: http://www.gutenberg.org/2009/agents/36090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36332#An-Address-Delivered-At-The-Interment-Of-Mrs.-Harriet-Storrs-Consort-Of-Rev.-Richard-S.-Storr_
 gutenberg_issued: '2011-06-05'
 gutenberg_type: Text
 identifiers:
